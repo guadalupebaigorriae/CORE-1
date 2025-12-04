@@ -21,7 +21,7 @@ namespace CORE_1.Controllers
             }
             
         }
-
+        //guada
         [HttpGet("getForId")]
         public ActionResult<object> GetForId([FromQuery]string nombre)
         {
